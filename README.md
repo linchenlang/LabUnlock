@@ -22,7 +22,7 @@
 
 ## 下载与使用
 
-1. 从 [main](../main) 下载 `LabUnlock.bat`
+1. 从 [Tags](https://github.com/linchenlang/LabUnlock/tags) 或 [Releases](https://github.com/linchenlang/LabUnlock/releases) 下载 `LabUnlock.bat`
 2. **以管理员身份运行**（右键 → “以管理员身份运行”）
 3. 阅读警告提示，按任意键开始清除
 4. 等待脚本执行完毕
